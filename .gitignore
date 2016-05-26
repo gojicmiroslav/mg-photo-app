@@ -19,3 +19,4 @@
 beleske.doc
 
 /config/environment_variables.yml
+/config/initializers/carrier_wave.rb
